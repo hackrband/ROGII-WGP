@@ -1,4 +1,4 @@
 # ROGII-WGP
 This project is a model to predict the geology along a horizontal wellbore. This code will help automate and improve drilling operations in the oil and gas industry. *Competition Code**
 
-Final Product Date: 7.1.26
+Final Product Date: 6.20.26
