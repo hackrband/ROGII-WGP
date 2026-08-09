@@ -3,4 +3,11 @@ This project is a model to predict the geology along a horizontal wellbore. This
 
 Make sure to download the ROGII Dataset: [https://www.kaggle.com/competitions/rogii-wellbore-geology-prediction/data]([url](https://www.kaggle.com/competitions/rogii-wellbore-geology-prediction/data))
 
-**Code finalized**
+## Credits & License
+
+This project is for **educational purposes only**.
+
+Credits to **Hackrband** and the original creators and resources used in this project.
+
+**© 2026 Hackrband**
+
